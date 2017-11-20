@@ -12,3 +12,18 @@
 h1 {
   text-align: center;
 }
+
+.date {
+  text-align: center;
+  padding: 5px;
+}
+
+.issue {
+  text-align: center;
+  padding-bottom: 7px;
+}
+
+.CoverPic {
+  display: block;
+  margin: auto;
+}
